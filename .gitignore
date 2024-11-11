@@ -2,3 +2,5 @@ data
 __pycache__
 UCF101_subset.tar.gz
 .env
+model
+wandb
