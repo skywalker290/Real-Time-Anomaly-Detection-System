@@ -1,0 +1,7 @@
+data
+__pycache__
+UCF101_subset.tar.gz
+.env
+model
+wandb
+videomae-base-finetuned-ucf101-subset
